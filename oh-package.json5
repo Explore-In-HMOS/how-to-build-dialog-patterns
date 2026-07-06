@@ -1,0 +1,11 @@
+{
+  "modelVersion": "6.0.1",
+  "name": "dialog-lab",
+  "version": "1.0.0",
+  "description": "Dialog pattern demo for HarmonyOS wearables",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {},
+  "devDependencies": {}
+}

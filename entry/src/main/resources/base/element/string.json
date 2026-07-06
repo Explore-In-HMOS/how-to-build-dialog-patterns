@@ -1,0 +1,262 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "how-to-build-dialog-patterns"
+    },
+    {
+      "name": "module_desc",
+      "value": "Dialog pattern demo for wearable devices"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Dialog Lab"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Dialog pattern demo for wearable devices"
+    },
+
+    {
+      "name": "dialog_lab_title",
+      "value": "Dialog Lab"
+    },
+    {
+      "name": "last_action_label",
+      "value": "Last action"
+    },
+    {
+      "name": "card_arrow",
+      "value": ">"
+    },
+
+    {
+      "name": "pattern_custom_dialog",
+      "value": "CustomDialog"
+    },
+    {
+      "name": "pattern_custom_dialog_subtitle",
+      "value": "Alarm confirmation"
+    },
+    {
+      "name": "pattern_dialog_v2",
+      "value": "DialogV2"
+    },
+    {
+      "name": "pattern_dialog_v2_subtitle",
+      "value": "Workout pause menu"
+    },
+    {
+      "name": "pattern_sheet_transition",
+      "value": "Sheet Transition"
+    },
+    {
+      "name": "pattern_sheet_transition_subtitle",
+      "value": "Settings panel"
+    },
+    {
+      "name": "pattern_action_sheet",
+      "value": "ActionSheet"
+    },
+    {
+      "name": "pattern_action_sheet_subtitle",
+      "value": "Notification action"
+    },
+    {
+      "name": "pattern_alert_dialog_v2",
+      "value": "AlertDialogV2"
+    },
+    {
+      "name": "pattern_alert_dialog_v2_subtitle",
+      "value": "Timer alert"
+    },
+    {
+      "name": "pattern_popover_dialog_v2",
+      "value": "PopoverDialogV2"
+    },
+    {
+      "name": "pattern_popover_subtitle",
+      "value": "Quick reply bubble"
+    },
+
+    {
+      "name": "alarm_time",
+      "value": "07:30"
+    },
+    {
+      "name": "alarm_title",
+      "value": "Morning Alarm"
+    },
+    {
+      "name": "alarm_message",
+      "value": "Stop or snooze?"
+    },
+
+    {
+      "name": "workout_dialog_title",
+      "value": "Workout Paused"
+    },
+    {
+      "name": "workout_dialog_value",
+      "value": "24:18"
+    },
+    {
+      "name": "workout_dialog_description",
+      "value": "Session is still active"
+    },
+
+    {
+      "name": "settings_title",
+      "value": "Settings"
+    },
+    {
+      "name": "settings_message",
+      "value": "Workout reminders"
+    },
+
+    {
+      "name": "timer_dialog_title",
+      "value": "Timer Done"
+    },
+    {
+      "name": "timer_dialog_content",
+      "value": "Finished"
+    },
+
+    {
+      "name": "quick_reply_title",
+      "value": "Quick Reply"
+    },
+    {
+      "name": "quick_reply_message",
+      "value": "Send reply?"
+    },
+
+    {
+      "name": "action_sheet_title",
+      "value": "Message"
+    },
+    {
+      "name": "action_sheet_subtitle",
+      "value": "Notification action"
+    },
+    {
+      "name": "action_sheet_message",
+      "value": "Choose an action"
+    },
+
+    {
+      "name": "action_stop",
+      "value": "Stop"
+    },
+    {
+      "name": "action_snooze",
+      "value": "Snooze"
+    },
+    {
+      "name": "action_resume",
+      "value": "Resume"
+    },
+    {
+      "name": "action_end",
+      "value": "End"
+    },
+    {
+      "name": "action_enable",
+      "value": "Enable"
+    },
+    {
+      "name": "action_cancel",
+      "value": "Cancel"
+    },
+    {
+      "name": "action_ok",
+      "value": "OK"
+    },
+    {
+      "name": "action_again",
+      "value": "Again"
+    },
+    {
+      "name": "action_send",
+      "value": "Send"
+    },
+    {
+      "name": "action_later",
+      "value": "Later"
+    },
+    {
+      "name": "action_reply",
+      "value": "Reply"
+    },
+    {
+      "name": "action_mute",
+      "value": "Mute"
+    },
+    {
+      "name": "action_delete",
+      "value": "Delete"
+    },
+
+    {
+      "name": "status_ready",
+      "value": "Ready"
+    },
+    {
+      "name": "status_alarm_stopped",
+      "value": "Alarm stopped"
+    },
+    {
+      "name": "status_alarm_snoozed",
+      "value": "Alarm snoozed"
+    },
+    {
+      "name": "status_workout_resumed",
+      "value": "Workout resumed"
+    },
+    {
+      "name": "status_workout_ended",
+      "value": "Workout ended"
+    },
+    {
+      "name": "status_reminders_enabled",
+      "value": "Reminders enabled"
+    },
+    {
+      "name": "status_settings_cancelled",
+      "value": "Settings cancelled"
+    },
+    {
+      "name": "status_timer_dismissed",
+      "value": "Timer dismissed"
+    },
+    {
+      "name": "status_timer_restarted",
+      "value": "Timer restarted"
+    },
+    {
+      "name": "status_quick_reply_sent",
+      "value": "Quick reply sent"
+    },
+    {
+      "name": "status_quick_reply_cancelled",
+      "value": "Quick reply cancelled"
+    },
+    {
+      "name": "status_reply_selected",
+      "value": "Reply selected"
+    },
+    {
+      "name": "status_notification_muted",
+      "value": "Notification muted"
+    },
+    {
+      "name": "status_notification_deleted",
+      "value": "Notification deleted"
+    },
+    {
+      "name": "status_action_sheet_cancelled",
+      "value": "ActionSheet cancelled"
+    }
+  ]
+}
