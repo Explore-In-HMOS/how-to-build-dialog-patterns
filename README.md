@@ -2,7 +2,7 @@
 
 # How to Build Dialog Patterns for HarmonyOS Wearables
 
-A compact dialog pattern showcase for HarmonyOS Next smart wearables. The app demonstrates how to use different ArkUI dialog APIs on a round watch screen, including `CustomDialog`, DialogV2 components, sheet transitions, action sheets, and popover dialogs.
+A compact dialog pattern showcase for HarmonyOS smart wearables. The app demonstrates how to use different ArkUI dialog APIs on a round watch screen, including `CustomDialog`, DialogV2 components, sheet transitions, action sheets, and popover dialogs.
 
 The codelab teaches how to choose the right dialog pattern for different wearable interactions such as alarms, workout controls, settings panels, notification actions, timer alerts, and quick replies. It focuses on small-screen usability, compact layouts, readable actions, and lightweight interaction flows.
 
